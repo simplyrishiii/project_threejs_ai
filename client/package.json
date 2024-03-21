@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite start",
+    "dev": "npm start",
     "build": "vite build",
     "preview": "vite preview"
   },
